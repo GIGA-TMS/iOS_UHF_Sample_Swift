@@ -22,4 +22,4 @@
 * Please download this project and open with Xcode.
 
 ## Documents
-* Please reference UHF SDK document here
+* Please reference UHF SDK document [here](https://github.com/GIGA-TMS/doc_iOS_UHFSDK)
